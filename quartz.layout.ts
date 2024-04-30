@@ -6,7 +6,8 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   // Removed the Discord and GitHub links from the footer
-  footer: Component.Footer(),
+  footer: 
+    Component.MobileOnly(Component.Explorer()),
 };
 
 // Components for pages that display a single page (e.g. a single note)
