@@ -39,9 +39,9 @@ As you probably could pick up on my [[I'm quitting social media|blog post]] rega
 
 I just... want to be genuine.
 
-And that's all. That's all there is to this website (or at least that's all there is to what I want this website to be) -- a place where I could be unequivocally honest.
+And that's all. That's all there is to this website (or at least that's all there is to what I want this website to be) -- a place where I could be unequivocally honest. ^02fedb
 
-And if that's something you're interested in, then feel free to browse around and let your curiosity take you wherever. I can't promise it'll be fun, but I promise I'll bore you out of your mind because you'd soon realize that this website isn't like how everyone else builds their website to be.
+And if that's something you're interested in, then feel free to browse around and let your curiosity take you wherever. I can't promise it'll be fun, but I promise I'll bore you out of your mind because you'd soon realize that this website isn't like how everyone else builds their website to be. ^3f9fd3
 
 And I have nothing to sell to you, unfortunately.
 
