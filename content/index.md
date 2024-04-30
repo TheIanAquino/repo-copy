@@ -66,7 +66,7 @@ So, dear reader, where to next?
 
 If you don't know where to go next and you're on a PC, I recommend checking out my highlights on several materials (articles, books, podcasts, tweets, videos, and whatnot), which you can find on the Explorer, to the left of your screen.
 
-If you're on mobile, I apologize as I don't have a better option at the moment than to direct you to the search and advise you to type whatever you want. If you don't have anything particular in mind, I suggest starting off with #articles, where you can surely see some interesting stuff. Then maybe try searching the keyword `Matter`, if you want more.
+If you're on mobile, I apologize as I don't have a better option at the moment than to direct you to the search and advise you to type whatever you want. If you don't have anything particular in mind, I suggest starting off with #articles, where you can surely see some interesting stuff. Then maybe try searching the keyword `Matter`, if you want more. I'm also doing this thing called [[_index-dailies|dailies]], which you might want to check out.
 
 My highlights come from applications called [Matter](https://web.getmatter.com/referral/4gs6wuqe) and [Readwise](https://readwise.io/i/ian161), respectively (I'll probably write something about this soon, if you're interested).
 
