@@ -7,7 +7,7 @@ draft: false
 > [!TIP] Quick Tip!
 > **Hey there! This website is better viewed through a PC.** 
 > 
-> I'm not yet that tech-savvy, so I struggle to implement the proper accessibility in this website without smashing monitors and keyboards in the process (as in I only know basic HTML, CSS, and JS to edit some minor things around, but I don't really know how to manipulate the nooks and crannies of the website's source code so I can do some fancy stuff, like put the Explorer on mobile view without breaking a few other things in the website). If you'd like to see the website in its full glory, feel free to access it some other time, when you're not on a mobile device anymore.
+> I'm not yet that tech-savvy, so I struggle to implement the proper accessibility in this website without smashing monitors and keyboards in the process (as in I only know basic HTML, CSS, and JS to edit some minor things around, **but I don't really know how to manipulate the nooks and crannies of the website's source code so I can do some fancy stuff, like put the Explorer on mobile view without breaking a few other things in the website**).
 > 
 > I'll repeatedly nag myself to finally continue learning coding (I tried a few years back but I quit due to some things in my personal life that required attention -- hence my surface-level knowledge about some of the languages) so I can finally do the modifications I want. 
 > 
