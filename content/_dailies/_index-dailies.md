@@ -30,3 +30,4 @@ So, here it is. Behold, my pretentious attempt at writing about my own little wo
 # Dailies
 
 - [[2024-04-29]]
+- [[2024-04-30]]
