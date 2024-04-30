@@ -15,8 +15,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["00_private", "00_templates", ".obsidian"],
+    baseUrl: "theianaquino.github.io/public-journal/",
+    ignorePatterns: ["00_private", "00_templates", ".obsidian",],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

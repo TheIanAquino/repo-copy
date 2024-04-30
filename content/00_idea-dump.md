@@ -20,5 +20,5 @@ last modified: 2024-04-29 04:36:57 PM
 # commitments
 - [[00_life-lessons]]
 
-# [[quartz/content/dailies]]
+# [[_index-dailies|dailies]]
 - 
