@@ -43,7 +43,8 @@ Instead, this page is about the author himself, which is me.
 - ### Birthday 
 	- 06/18/2001
 - ### Occupation
-	- Graphic Designer, [Hatch Corporate Solutions](https://www.instagram.com/hatch.solutions/?hl=en)
+	- Current Role: Graphic Designer, [Hatch Corporate Solutions](https://www.instagram.com/hatch.solutions/?hl=en)
+	- Dream Role: Art Director specializing in Motion Design.
 - ### Contact
 	- **ian.aquino.personal@gmail.com**
 	- [**Viber**](viber://chat?number=%2B639756833648)
@@ -79,7 +80,7 @@ Instead, this page is about the author himself, which is me.
 		- Substance Painter
 		- Cinema 4D
 		- Blender
-- Writing
+- Reading & Writing
 - Personal Knowledge Management (PKM)
 	- Note-making
 	- Note-taking
@@ -87,6 +88,11 @@ Instead, this page is about the author himself, which is me.
 - Trading
 	- Smart Money Concepts (SMC)
 	- Inner Circle Trader Concepts (ICT)
+- [Minimalism](https://www.breakthetwitch.com/minimalism/)
+	- >[!info]- Disclaimer 
+	  > I have yet to research about Intentionalism and Essentialism so I can write extensively about them, but the general idea is within the core concepts of Minimalism, so I put them below Minimalism.
+	- Intentionalism
+	- Essentialism
 ## Fears
 - Failing
 - Inadequacy
@@ -98,6 +104,11 @@ Instead, this page is about the author himself, which is me.
 
 # [[00_my-values-sheet|Values]]
  ![[00_my-values-sheet#My Value Hierarchy]]
+# Philosophies
+- [Minimalism](https://www.breakthetwitch.com/minimalism/)
+- [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
+- [[John Locke’s Empiricism- Why We Are All Tabula Rasas (Blank Slates)|Empiricism]]
+
 # Where to next?
 If you feel like you've exhausted this page of the information you can get about me already, then it's only right to move on to [[_READ-ME-NEXT]], so you can know more about your way around this website.
  
