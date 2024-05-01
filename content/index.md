@@ -4,7 +4,7 @@ draft: false
 ---
 
 
-> [!TIP] Quick Tip!
+> [!TIP]- Temporary Notice
 > **Hey there! This website is better viewed through a PC.** 
 > 
 > I'm not yet that tech-savvy, so I struggle to implement the industry-standard and proper accessibility in this website without smashing multiple monitors and keyboards in the process -- as in I only know basic HTML, CSS, and JS to edit some minor things around... 
@@ -71,5 +71,5 @@ If you're on mobile, I apologize as I don't have a better option at the moment t
 My highlights come from applications called [Matter](https://web.getmatter.com/referral/4gs6wuqe) and [Readwise](https://readwise.io/i/ian161), respectively (I'll probably write something about this soon, if you're interested).
 
 
-> [!WARNING] Reminder
+> [!WARNING]- Reminder
 > I do not usually manually maintain my highlights, so if a few of them are broken (like some links, for example), I ask for your patience as they're really not within my area of interest to fix at the moment. Maybe in the future, but I highly doubt. Such is the case because **Readwise** and **Matter** compile the direct links (oftentimes from newsletters) from my inbox. At that point, if that said link is inaccessible to you, it becomes dead for everyone else *except* the original recipient of the message, which is me.
