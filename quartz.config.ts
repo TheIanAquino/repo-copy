@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "theianaquino.github.io/public-journal/",
-    ignorePatterns: ["00_private", "00_templates", ".obsidian",],
+    ignorePatterns: ["00_private", "00_templates", ".obsidian",".trash"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
