@@ -21,15 +21,19 @@ Instead, this page is about the author himself, which is me.
 # Okay, so who are you?
 
 
-> [!warning] This part of the website is a work in progress. Having incomplete information is highly likely.
+> [!warning] This part of the website is a work in progress. 
+> Having incomplete information at this point is highly likely. I highly recommend you check the other parts of the website first.
+> 
+> Here's a few keywords to search, when you're on mobile:
+> [[_index-dailies|dailies]], #articles, [[00_idea-dump]]. and Matter.
 
 
 I'm Ian Aquino, a 22-year-old graphic designer from the Philippines. Here's a quick rundown of I am, holistically, warts and all:
 
-Name: Ian Alexander A. Aquino
-Age: 22 y.o.
-Birthday: 06/18/2001
-Interests:
+**Name:** Ian Alexander A. Aquino
+**Age:** 22 y.o.
+**Birthday:** 06/18/2001
+**Interests:**
 - Design
 - Writing
 - 3D
