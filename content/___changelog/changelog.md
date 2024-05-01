@@ -1,4 +1,4 @@
-- 2024-05-01 at 21h39 · [[_READ-ME-NEXT]]
+- 2024-05-01 at 21h44 · [[_READ-ME-NEXT]]
 - 2024-05-01 at 21h25 · [[David Perell, How to Maximize Serendipity]]
 - 2024-05-01 at 21h06 · [[_READ-ME-FIRST]]
 - 2024-05-01 at 21h00 · [[index]]
@@ -176,6 +176,6 @@
 - 2024-04-29 at 21h30 · [[a few thoughts on systems]]
 - 2024-04-29 at 21h30 · [[The School of Life]]
 - 2024-04-29 at 21h30 · [[I'm quitting social media]]
-- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[Callouts]]
+- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[content]]

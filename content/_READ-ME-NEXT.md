@@ -30,7 +30,7 @@ Now, I can't always update the journal with valuable (as in practical informatio
 
 I also keep a compilation of all the highlights and notes that I have on the materials that I consume, including articles, videos, podcasts, and books, through [Readwise](https://readwise.io/i/ian161) and [Matter](https://web.getmatter.com/referral/4gs6wuqe), which you can find on the Explorer, to your left, when you're on PC. If you're on a mobile device, please feel free to use the `search` functionality of the website so you can go there easily.
 
-Aaaand that's it! That's all you need to navigate this thing.
+And that's it! That's all you need to navigate this thing.
 
 I know it might not make sense at first, but trust me, it's really enjoyable to surrender to serendipity. Speaking about serendipity, you might want to check out my set of highlights  from an article by David Perell, one of my favorite writers: [[David Perell, How to Maximize Serendipity|How to Maximize Serendipity]]. The direct link to the article is also in the link above, if you want to read the entire thing. Lastly, below is a quick Artificial Intelligence (AI) summary of it, provided by [Readwise](https://readwise.io/i/ian161) themselves, if you're interested:
 
