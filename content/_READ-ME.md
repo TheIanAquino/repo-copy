@@ -24,7 +24,8 @@ Instead, this page is about the author himself, which is me.
 > [!warning] This part of the website is a work in progress. 
 > Having incomplete information at this point is highly likely. I highly recommend you check the other parts of the website first.
 > 
-> Here's a few keywords to search, when you're on mobile:
+> **Here's a few keywords to search, when you're on mobile:**
+> 
 > [[_index-dailies|dailies]], #articles, [[00_idea-dump]]. and Matter.
 
 
