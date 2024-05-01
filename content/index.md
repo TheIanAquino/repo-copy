@@ -30,14 +30,18 @@ I have years of experience working in the creative industry, both in the freelan
 
 For my creative work, you can check out my portfolio (*TBA*).
 
-Should you want or need to contact me, please feel free to do so through these my email: **ian.aquino.personal@gmail.com**
+Should you want or need to contact me, please feel free to do so through my email: **ian.aquino.personal@gmail.com**.
 
 
 If all else fails, ping me over at [**Viber**](viber://chat?number=%2B639756833648), [**Telegram**](https://telegram.me/soro_ffs), [**Discord**](https://discord.com/channels/@me) or [**iMessage**](sms://09756833648). 
 
-If, for some reason, one of those links do not work, here's my public mobile number, which you can reach out to instead of the embedded Telegram, Viber, and iMessage links: 
+In case you can't use those links, my username for Viber, Telegram and Discord are the same:
 
-> **+63 975 683 3648**. 
+> **@s0ro_ffs**
+
+If, for some reason, one of those links do not work, here's my public mobile number, which you can reach out to instead of the embedded Viber, Telegram, Discord, and iMessage links: 
+
+> **+63 975 683 3648**
 # What about this website?
 
 The short answer is I made this website originally to write about whatever I want. The long answer is that I've a bunch of interests, much to my chagrin: design, 3D, business, writing, plus a shit-ton more... and I need a channel through which I can yap about those. ^c43217

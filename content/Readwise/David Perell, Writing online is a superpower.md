@@ -8,7 +8,7 @@ Writing online is a superpower
 - Category: #articles
 - Published Date: 2020-02-12
 - Document Note: Writing online can be a powerful tool for various groups of individuals, ranging from those with niche hobbies to academia to entrepreneurs, job hunters, investors, and artists. Writing can help expand one's audience, sharpen thinking, attract recruiters, and demonstrate competence and commitment. The internet provides the opportunity for people to connect with like-minded individuals and showcase their unique skills and ideas. Taking an online writing course can help anyone develop this superpower.
-- Summary: Writing online can be a powerful tool for various groups of individuals, ranging from those with niche hobbies to academia to entrepreneurs, job hunters, investors, and artists. Writing can help expand one's audience, sharpen thinking, attract recruiters, and demonstrate competence and commitment. The internet provides the opportunity for people to connect with like-minded individuals and showcase their unique skills and ideas. Taking an online writing course can help anyone develop this superpower.
+- Summary: Writing online can be a powerful tool for various groups of individuals, ranging from those with niche hobbies to academia to entrepreneurs, job hunters, investors, and artists. Writing can help expand one's audience, sharpen thinking, attract recruiters, and demonstrate competence and commitment. The internet provides the opportunity for people to connect with like-minded individuals and showcase their unique skills and ideas. Taking an online writing course can help anyone develop this superpower. ^2cefb7
 - URL: https://twitter.com/david_perell/status/1227612675334660099
 
 ## Highlights

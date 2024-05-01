@@ -15,3 +15,4 @@ So here is that idea, finally, in its nascent form: a list of life lessons that 
 
 - [[Boundaries are hard to enforce.]]
 - [[Writing is thinking.]]
+- [[It's always easier said than done.]]
