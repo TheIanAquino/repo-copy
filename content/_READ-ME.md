@@ -31,11 +31,27 @@ Instead, this page is about the author himself, which is me.
 
 I'm Ian Aquino, a 22-year-old graphic designer from the Philippines. Here's a quick rundown of I am, holistically, warts and all:
 
-**Name:** Ian Alexander A. Aquino
-**Age:** 22 y.o.
-**Birthday:** 06/18/2001
-**Interests:**
-- Design
-- Writing
-- 3D
-- Cinema 4D
+- **Name:** Ian Alexander A. Aquino
+- **Nicknames**: Ian, Alex, Xander
+- **Age:** 22 y.o.
+- **Birthday:** 06/18/2001
+- **Interests & Skills:**
+	- Design
+		- 2D
+			- Adobe Creative Suite
+			- Adobe Photoshop
+			- Adobe Illustrator
+			- Adobe After Effects
+			- Adobe Premiere Pro
+			- Adobe Audition
+			- Adobe XD
+		- 3D
+			- Maya
+			- Substance Painter
+			- Cinema 4D
+	- Writing
+	- Personal Knowledge Management (PKM)
+		- Note-making
+		- Note-taking
+		- Zettelkasten
+	- Cinema 4D
