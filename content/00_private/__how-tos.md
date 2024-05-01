@@ -15,3 +15,9 @@
 **Page Metadata:**
 
 ![[Pasted image 20240501012134.png]]
+# Cloning a GitHub Repository using Git
+When cloning a github repository using Git, make sure to use the link in this dropdown:
+
+![[Pasted image 20240501140626.png]]
+
+I don't know what it's called, exactly, but don't copy the link from the browser itself.
