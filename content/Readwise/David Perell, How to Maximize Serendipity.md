@@ -8,7 +8,7 @@ How to Maximize Serendipity
 - Category: #articles
 - Published Date: 2018-06-07
 - Document Note: Serendipity is a state of mind that can be maximized to accelerate progress. Opportunities that arise do so unexpectedly out of the blue. Networking can happen in unconventional settings, like at a basketball court instead of a formal professional event. Building relationships based on trust, joy, and mutual respect are the foundation of serendipity. Like ambient music, relationships thrive on subtle, regular connection, pandemic or not.
-- Summary: Serendipity is a state of mind that can be maximized to accelerate progress. Opportunities that arise do so unexpectedly out of the blue. Networking can happen in unconventional settings, like at a basketball court instead of a formal professional event. Building relationships based on trust, joy, and mutual respect are the foundation of serendipity. Like ambient music, relationships thrive on subtle, regular connection, pandemic or not.
+- Summary: Serendipity is a state of mind that can be maximized to accelerate progress. Opportunities that arise do so unexpectedly out of the blue. Networking can happen in unconventional settings, like at a basketball court instead of a formal professional event. Building relationships based on trust, joy, and mutual respect are the foundation of serendipity. Like ambient music, relationships thrive on subtle, regular connection, pandemic or not. ^08cb67
 - URL: https://perell.com/essay/serendipity/
 
 ## Highlights

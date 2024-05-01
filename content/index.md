@@ -32,7 +32,6 @@ For my creative work, you can check out my portfolio (*TBA*).
 
 Should you want or need to contact me, please feel free to do so through my email: **ian.aquino.personal@gmail.com**.
 
-
 If all else fails, ping me over at [**Viber**](viber://chat?number=%2B639756833648), [**Telegram**](https://telegram.me/soro_ffs), [**Discord**](https://discord.com/channels/@me) or [**iMessage**](sms://09756833648). 
 
 In case you can't use those links, my username for Viber, Telegram and Discord are the same:

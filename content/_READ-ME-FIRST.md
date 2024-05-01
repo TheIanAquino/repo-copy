@@ -44,7 +44,14 @@ Instead, this page is about the author himself, which is me.
 	- 06/18/2001
 - ### Occupation
 	- Graphic Designer, [Hatch Corporate Solutions](https://www.instagram.com/hatch.solutions/?hl=en)
-
+- ### Contact
+	- **ian.aquino.personal@gmail.com**
+	- [**Viber**](viber://chat?number=%2B639756833648)
+	- [**Telegram**](https://telegram.me/soro_ffs)
+	- [**Discord**](https://discord.com/channels/@me)
+	- [**iMessage**](sms://09756833648)
+	- **Mobile Number**: +63 975 683 3648
+	- **Viber, Telegram, and Discord username**: @s0ro_ffs
 
 >[!INFO] TIP
 >Here's some more quick information about me. If you already came from the [[index|front page]], feel free to skip to the [[_READ-ME-FIRST#Mission Statement|next part]].
@@ -73,10 +80,13 @@ Instead, this page is about the author himself, which is me.
 		- Cinema 4D
 		- Blender
 - Writing
-- Personal Knowledge Management
+- Personal Knowledge Management (PKM)
 	- Note-making
 	- Note-taking
 	- The Zettelkasten method
+- Trading
+	- Smart Money Concepts (SMC)
+	- Inner Circle Trader Concepts (ICT)
 ## Fears
 - Failing
 - Inadequacy
@@ -88,3 +98,6 @@ Instead, this page is about the author himself, which is me.
 
 # [[00_my-values-sheet|Values]]
  ![[00_my-values-sheet#My Value Hierarchy]]
+# Where to next?
+If you feel like you've exhausted this page of the information you can get about me already, then it's only right to move on to [[_READ-ME-NEXT]], so you can know more about your way around this website.
+ 
