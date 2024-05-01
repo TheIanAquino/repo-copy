@@ -38,4 +38,4 @@ I'm Ian Aquino, a 22-year-old graphic designer from the Philippines. Here's a qu
 - Design
 - Writing
 - 3D
-- 
+- Cinema 4D
