@@ -1,4 +1,4 @@
-- 2024-05-01 at 21h44 · [[_READ-ME-NEXT]]
+- 2024-05-01 at 21h46 · [[_READ-ME-NEXT]]
 - 2024-05-01 at 21h25 · [[David Perell, How to Maximize Serendipity]]
 - 2024-05-01 at 21h06 · [[_READ-ME-FIRST]]
 - 2024-05-01 at 21h00 · [[index]]
