@@ -67,11 +67,15 @@ And if that's something you're interested in, then feel free to browse around an
 
 So, dear reader, where to next?
 
-If you don't know where to go next, I urge you to check out [[_READ-ME-FIRST]], so you could get to know me, the author of this public journal. If that sounds boring, I recommend checking out my highlights on several materials (articles, books, podcasts, tweets, videos, and whatnot), which you can find on the Explorer, to the left of your screen.
+If you don't know where to go next, I urge you to check out [[_READ-ME-FIRST]], so you could get to know me, the author of this public journal. Then, as much as I would love to leave the next steps to you, it would be best for you to familiarize yourself with the content of this website, which I do a good job of discussing over at [[_READ-ME-NEXT]]. 
+
+If that sounds boring, I recommend checking out my highlights on several materials (articles, books, podcasts, tweets, videos, and whatnot), which you can find on the Explorer, to the left of your screen.
 
 If you're on a mobile device, I apologize as I don't have a better option at the moment than to direct you to the search and advise you to type whatever you want (but feel free to read [[_READ-ME-FIRST]] also!). 
 
 If you don't have anything particular in mind, I suggest starting off with #articles, where you can surely see some interesting stuff. Then maybe try searching the keyword `Matter`, if you want more. Perhaps you just want to get a general feel of how I think -- you might want to check out my [[00_idea-dump|idea dump]]. If my idea dump sounds interesting and you have a little extra time to spare, my [[_index-dailies|dailies]] might catch your attention. 
+
+Whatever you do, just remember to **follow your curiosities**. They'll lead you somewhere, I promise.
 
 
 > [!INFO]- P.S.
