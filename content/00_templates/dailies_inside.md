@@ -7,3 +7,4 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 type: entry
 ---
 <% await tp.file.move("/_dailies/" + tp.file.title) %>
+**[[<% tp.date.now("YYYY-MM-DD") %>]]** | *<% tp.date.now("hh:mm:ss A") %>*

@@ -1,11 +1,9 @@
 ## Metadata
 * URL: [https://philosophybreak.com/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/?utm_source=reddit&utm_medium=social&utm_campaign=john-locke&utm_content=march2021](https://philosophybreak.com/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/?utm_source=reddit&utm_medium=social&utm_campaign=john-locke&utm_content=march2021)
 * Publisher: philosophybreak.com
-
-
 ## Highlights
 * Are we born with innate knowledge? Or do we acquire knowledge only through our sensory experiences? Does the world of our sensory experience align to ‘reality’? Or is experience a poor guide to what’s really there? These are key questions of epistemology, the branch of philosophy concerned with what knowledge is, how we acquire it, and whether it has secure foundations.
-* knowledge is demonstrably acquired only through sensory experience, but that our sensory experience is not infallible.
+* knowledge is demonstrably acquired only through sensory experience, but that our sensory experience is not infallible. ^0a93e3
   * **Note**: John Locke’s argument.
 * In his brilliant 1689 work An Essay Concerning Human Understanding, Locke argues that, at birth, the mind is a tabula rasa (a blank slate) that we fill with ‘ideas’ as we experience the world through the five senses.
 * By ‘idea’, Locke means “whatsoever is the Object of the Understanding, when a person thinks.”
