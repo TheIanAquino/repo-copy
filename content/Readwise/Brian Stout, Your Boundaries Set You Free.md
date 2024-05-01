@@ -7,7 +7,7 @@ Your Boundaries Set You Free
 - Full Title: Your Boundaries Set You Free
 - Category: #articles
 - Published Date: 2021-05-13
-- Summary: Boundaries are an act of love for both yourself and others, as they create space for authentic connections and choices. Being able to say no makes it possible for your yes to be authentic, and setting boundaries is an essential act of self-care and self-love. It is important to take responsibility only for your own actions and not to shoulder the emotional responsibility of others. Repairing relationships after a rupture requires emotional labor, and the responsibility for initiating this repair lies with the person who is most healed.
+- Summary: Boundaries are an act of love for both yourself and others, as they create space for authentic connections and choices. Being able to say no makes it possible for your yes to be authentic, and setting boundaries is an essential act of self-care and self-love. It is important to take responsibility only for your own actions and not to shoulder the emotional responsibility of others. Repairing relationships after a rupture requires emotional labor, and the responsibility for initiating this repair lies with the person who is most healed. ^c858cb
 - URL: https://click.convertkit-mail2.com/qdur6488neu7h7r3qdetl/l2hehmh3nr0xl0ug/aHR0cHM6Ly9jaXRpemVuc3RvdXQuc3Vic3RhY2suY29tL3AveW91ci1ib3VuZGFyaWVzLXNldC15b3UtZnJlZQ==
 
 ## Highlights
