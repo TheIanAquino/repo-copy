@@ -13,5 +13,5 @@ So here is that idea, finally, in its nascent form: a list of life lessons that 
 > [!NOTE] Note
 > I'll be adding ideas here along the way. Please expect some changes soon.
 
-[[Boundaries are hard to enforce.]]
-[[Writing is thinking.]]
+- [[Boundaries are hard to enforce.]]
+- [[Writing is thinking.]]
