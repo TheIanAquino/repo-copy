@@ -16,3 +16,6 @@ So here is that idea, finally, in its nascent form: a list of life lessons that 
 - [[Boundaries are hard to enforce.]]
 - [[Writing is thinking.]]
 - [[It's always easier said than done.]]
+- [[The hardest person to forgive is yourself.]]
+- [[It's easy to be a friend to others, it's hard to be a friend to yourself.]]
+- [[Be more with less.]]

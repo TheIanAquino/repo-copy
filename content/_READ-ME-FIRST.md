@@ -1,5 +1,5 @@
 ---
-title: _READ-ME
+title: _READ-ME-FIRST
 draft: false
 date created: 2024-05-01
 last modified: 2024-05-01 03:57:49 PM
@@ -28,30 +28,63 @@ Instead, this page is about the author himself, which is me.
 > 
 > [[_index-dailies|dailies]], #articles, [[00_idea-dump]]. and Matter.
 
+>[!TIP]- If you're on a PC, open this.
+>For easier navigation, use the **Table of Contents**.
 
-I'm Ian Aquino, a 22-year-old graphic designer from the Philippines. Here's a quick rundown of I am, holistically, warts and all:
+## Basic Information
+- ### Name
+	- Ian Alexander A. Aquino
+- ### Nicknames
+	- Ian, Alex, Xander
+- ### Identification
+	- s0ro
+- ### Age
+	- 22 y.o.
+- ### Birthday 
+	- 06/18/2001
+- ### Occupation
+	- Graphic Designer, [Hatch Corporate Solutions](https://www.instagram.com/hatch.solutions/?hl=en)
 
-- **Name:** Ian Alexander A. Aquino
-- **Nicknames**: Ian, Alex, Xander
-- **Age:** 22 y.o.
-- **Birthday:** 06/18/2001
-- **Interests & Skills:**
-	- Design
-		- 2D
-			- Adobe Creative Suite
-			- Adobe Photoshop
-			- Adobe Illustrator
-			- Adobe After Effects
-			- Adobe Premiere Pro
-			- Adobe Audition
-			- Adobe XD
-		- 3D
-			- Maya
-			- Substance Painter
-			- Cinema 4D
-	- Writing
-	- Personal Knowledge Management (PKM)
-		- Note-making
-		- Note-taking
-		- Zettelkasten
-	- Cinema 4D
+
+>[!INFO] TIP
+>Here's some more quick information about me. If you already came from the [[index|front page]], feel free to skip to the [[_READ-ME-FIRST#Mission Statement|next part]].
+
+
+![[index#Wtf is this?]] 
+
+## Mission Statement
+
+>[!TIP] Mission Statement
+> Lorem ipsum dolor sit amet.
+
+## Interests & Skills
+- Design
+	- 2D
+		- Adobe Creative Suite
+		- Adobe Photoshop
+		- Adobe Illustrator
+		- Adobe After Effects
+		- Adobe Premiere Pro
+		- Adobe Audition
+		- Adobe XD
+	- 3D
+		- Maya
+		- Substance Painter
+		- Cinema 4D
+		- Blender
+- Writing
+- Personal Knowledge Management
+	- Note-making
+	- Note-taking
+	- The Zettelkasten method
+## Fears
+- Failing
+- Inadequacy
+- ~~Cockroaches~~
+- Baldness
+- Alopecia
+- Sickness
+	- Cancer
+
+# [[00_my-values-sheet|Values]]
+ ![[00_my-values-sheet#My Value Hierarchy]]

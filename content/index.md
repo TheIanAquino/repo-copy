@@ -39,7 +39,7 @@ In case you can't use those links, my username for Viber, Telegram and Discord a
 
 > **@s0ro_ffs**
 
-If, for some reason, one of those links do not work, here's my public mobile number, which you can reach out to instead of the embedded Viber, Telegram, Discord, and iMessage links: 
+And if, for some reason, one of those links do not work, here's my public mobile number, which you can reach out to instead of the embedded Viber, Telegram, Discord, and iMessage links: 
 
 > **+63 975 683 3648**
 # What about this website?
@@ -68,12 +68,16 @@ And if that's something you're interested in, then feel free to browse around an
 
 So, dear reader, where to next?
 
-If you don't know where to go next and you're on a PC, I recommend checking out my highlights on several materials (articles, books, podcasts, tweets, videos, and whatnot), which you can find on the Explorer, to the left of your screen.
+If you don't know where to go next, I urge you to check out [[_READ-ME-FIRST]], so you could get to know me, the author of this public journal. If that sounds boring, I recommend checking out my highlights on several materials (articles, books, podcasts, tweets, videos, and whatnot), which you can find on the Explorer, to the left of your screen.
 
-If you're on mobile, I apologize as I don't have a better option at the moment than to direct you to the search and advise you to type whatever you want. If you don't have anything particular in mind, I suggest starting off with #articles, where you can surely see some interesting stuff. Then maybe try searching the keyword `Matter`, if you want more. I'm also doing this thing called [[_index-dailies|dailies]], which you might want to check out.
+If you're on a mobile device, I apologize as I don't have a better option at the moment than to direct you to the search and advise you to type whatever you want (but feel free to read [[_READ-ME-FIRST]] also!). 
 
-My highlights come from applications called [Matter](https://web.getmatter.com/referral/4gs6wuqe) and [Readwise](https://readwise.io/i/ian161), respectively (I'll probably write something about this soon, if you're interested).
+If you don't have anything particular in mind, I suggest starting off with #articles, where you can surely see some interesting stuff. Then maybe try searching the keyword `Matter`, if you want more. Perhaps you just want to get a general feel of how I think -- you might want to check out my [[00_idea-dump|idea dump]]. If my idea dump sounds interesting and you have a little extra time to spare, my [[_index-dailies|dailies]] might catch your attention. 
 
 
-> [!WARNING]- Reminder
+> [!INFO]- P.S.
+> My highlights come from applications called [Matter](https://web.getmatter.com/referral/4gs6wuqe) and [Readwise](https://readwise.io/i/ian161), respectively (I'll probably write something about this soon, if you're interested).
+
+
+> [!INFO]- P.P.S.
 > I do not usually manually maintain my highlights, so if a few of them are broken (like some links, for example), I ask for your patience as they're really not within my area of interest to fix at the moment. Maybe in the future, but I highly doubt. Such is the case because **Readwise** and **Matter** compile the direct links (oftentimes from newsletters) from my inbox. At that point, if that said link is inaccessible to you, it becomes dead for everyone else *except* the original recipient of the message, which is me.

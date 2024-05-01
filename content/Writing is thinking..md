@@ -17,4 +17,4 @@ Here's a quick summary of my highlights from [[David Perell, Writing online is a
 
 ![[David Perell, Writing online is a superpower#^2cefb7]]
 
-Re-writing is thinking, no matter what angle we look at it.
+Re-writing is thinking, no matter through which angle we look at it.

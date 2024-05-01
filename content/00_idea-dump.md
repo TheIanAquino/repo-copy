@@ -17,8 +17,13 @@ last modified: 2024-04-29 04:36:57 PM
 - [[quality dots]]
 - [[knowledge isn't practice]] - draft
 - [[the importance of yappitap]] - draft
+- [[digital garden|digital gardens]]
+	- [[Digital gardens are constructive, rather than destructive.]]
+	- [[Digital gardens encourage thinking.]]
+	- [[Digital gardens evolve over time.]]
 
 # commitments
 - [[00_life-lessons]]
+
 
 # [[_index-dailies|dailies]]

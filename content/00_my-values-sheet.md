@@ -43,8 +43,8 @@ last modified: 2024-04-29 05:18:51 PM
 		- Proper allocation [^27]
 - **Relationships** [^28]
 	- Romantic [^29]
-			- Quality time [^30]
-			- Physical touch [^31]
+		- Quality time [^30]
+		- Physical touch [^31]
 	- Casual [^32]
 	- Familial [^33]
 
