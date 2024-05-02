@@ -32,3 +32,4 @@ So, here it is. Behold, my pretentious attempt at writing about my own little wo
 - [[2024-04-29]]
 - [[2024-04-30]]
 - [[2024-05-01]]
+- [[2024-05-02]]

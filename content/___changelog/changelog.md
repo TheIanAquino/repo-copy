@@ -1,3 +1,5 @@
+- 2024-05-02 at 12h52 · [[2024-05-02]]
+- 2024-05-02 at 12h32 · [[_index-dailies]]
 - 2024-05-01 at 23h19 · [[2024-05-01]]
 - 2024-05-01 at 22h52 · [[_READ-ME-FIRST]]
 - 2024-05-01 at 22h09 · [[index]]
@@ -20,7 +22,6 @@
 - 2024-05-01 at 14h06 · [[__how-tos]]
 - 2024-05-01 at 11h53 · [[dailies_inside]]
 - 2024-05-01 at 11h53 · [[now]]
-- 2024-05-01 at 11h45 · [[_index-dailies]]
 - 2024-05-01 at 11h44 · [[John Locke’s Empiricism- Why We Are All Tabula Rasas (Blank Slates)]]
 - 2024-05-01 at 01h35 · [[Mark Manson, The Guide to Strong Relationship Boundaries]]
 - 2024-05-01 at 01h35 · [[Ali Abdaal, What would you like to do if money were no object]]
