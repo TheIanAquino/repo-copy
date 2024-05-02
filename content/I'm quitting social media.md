@@ -44,7 +44,7 @@ Right. Enough yapping. Where is this leading toward?
 
 See, the internet has evolved to have a recency bias, where [myopia seems to be the norm](https://x.com/david_perell/status/1740970102676172855?s=20) (h/t [David Perell](https://perell.com/)). It's always the recent stuff that get pushed to our feeds. Bad or good information, doesn't matter -- it gets shoved in our faces. ^0e26c3
 
-This is why I've always liked newsletters: I can check in and out -- and this is the most important part -- just when I want or need to.
+This is why I've always liked newsletters: I can check in and out -- and this is the most important part -- just when I want or need to. ^8e1794
 
 In quitting social media, I would be outside of the bubble where I could know what happens to whom -- and that means I wouldn't be able to put up Facebook and Instagram stories and posts anymore.
 

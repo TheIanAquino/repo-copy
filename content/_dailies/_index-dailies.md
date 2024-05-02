@@ -37,7 +37,13 @@ To be fair, other than that -- as in none of the parts of this website are build
 
 So, if you're not interested in that, and in however way you think dailies would end up to be, warts and all, then it's probably best for you to check out the other parts of my website that could provide you with value.
 
-I honestly would only recommend Dailies to people who are curious about what I'm up to, how I'm doing, and all those usual, social media-y stuff, as everything I would write there is casual, and pretty much just about anything that comes to mind -- no structure, whatsoever. If anything, the closest I could get it to an extant idea is the concept of [working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up). Except, it's more relaxed, conversational, and I talk about literally anything that I want.
+I honestly would only recommend Dailies to people who are curious about what I'm up to, how I'm doing, and all those usual, social media-y stuff, as everything I would write there is casual, and pretty much just about anything that comes to mind -- no structure, whatsoever. 
+
+You can think of it as like a daily newsletter that only goes to my website -- not to your inbox. I'm specifically fond of newsletters, as they provide a channel through which noise is elminated. It's just the reader and the author, like a 1:1 experience. It's the closest and most intimate a person could be to an author who lives on the opposite side of the screen! Hence, it's the most perfect medium through which you can stay updated on the things I'm up to, and stuff, especially if you don't want to maintain an actual, in-person connection with me:
+
+![[I'm quitting social media#^8e1794]]
+
+If I were to relate this part of the journal, however, to anything serious, the closest, extant idea that pops in my mind is the concept of [working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up). Except, it's more casual, relaxed, conversational (as in, I type as if I talk to myself -- which is how I write most of the time in this journal!), and I talk about literally anything that I want.
 
 With all of that said, here it goes...
 
