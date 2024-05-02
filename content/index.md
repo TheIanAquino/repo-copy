@@ -59,7 +59,7 @@ As you probably could pick up on my [[I'm quitting social media|blog post]] rega
 
 ![[I'm quitting social media#^0e26c3]]
 
-I just... want to be genuine.
+I just... want to be genuine. ^e817db
 
 And that's all. That's all there is to this website (or at least that's all there is to what I want this website to be) -- a place where I could be unequivocally honest. ^02fedb
 

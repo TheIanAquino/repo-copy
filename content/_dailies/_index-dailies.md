@@ -7,7 +7,7 @@ last modified: 2024-04-29 07:34:30 PM
 
 # What is Dailies?
 
-> [!NOTE] Fun Fact!
+> [!NOTE]- Open me for context!
 > Just a few days ago I came across a video of [Nicole van der Hoeven](https://nicolevanderhoeven.com/) where she briefly talked about this cool little thing she saw online. She found a [GitHub repository](https://github.com/jbranchaud/til) where the owner basically has been updating things he's learned every day, for the past few years. It's entitled "TIL", or Today I Learned. 
 > 
 > Here's a description written in the repository by the owner himself, **[jbranchaud](https://github.com/jbranchaud)**: 
@@ -23,9 +23,25 @@ But Dailies is a bit different. I want the highlight of this part of the journal
   
 I'd like to think of it as some sort of self-imposed accountability partner. Although no one probably cares that I'm writing this, that I plan on embarking on this huge-ass writing thing on a daily basis, I don't give a shit. I'll still write. A major part of it, I suppose, is to build character. And if you think of it, it could be partly just for fun. Either way, it does more good than harm, and I'm in it purely for the benefits that I'll get in the long run.
 
-Plus, I'm already an avid note-taker anyways, so what am I on about all these self-help shit. I just like writing -- that's the majority of it.
-  
-So, here it is. Behold, my pretentious attempt at writing about my own little world (and whatever else I want -- or don't want), **"Dailies"**.  
+Plus, I'm already an avid note-taker anyways, so I think that's also a huge part of my initiative. It's more so a fun little project, rather than something I take too seriously.
+
+I do not carry the types of characteristics usually seen among button-up, uptight people who yap about things like self-improvement. It just so happened that I like consuming stuff from self-helpy-vibed people, and I enjoy writing!
+
+Please note that I don't write for anyone here, but myself. I write for myself, which is a huge factor in why you *probably* wouldn't understand half of what I would be writing about. Nonetheless, I would like to do engage in this project with a Gary Vaynerchuck sort of mindset to document, document, document. 
+
+It's not about you, or any sort of audience. It's about me: what I enjoy, what I'm good at, how I feel, how I see things. If you don't resonate with this philosophy, then you probably wouldn't enjoy reading Dailies. 
+
+To be fair, other than that -- as in none of the parts of this website are build with a particular audience in mind -- one of the shiniest imperatives I had in mind as I formulated this website was this:
+
+![[index#^e817db]]
+
+So, if you're not interested in that, and in however way you think dailies would end up to be, warts and all, then it's probably best for you to check out the other parts of my website that could provide you with value.
+
+I honestly would only recommend Dailies to people who are curious about what I'm up to, how I'm doing, and all those usual, social media-y stuff, as everything I would write there is casual, and pretty much just about anything that comes to mind -- no structure, whatsoever. If anything, the closest I could get it to an extant idea is the concept of [working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up). Except, it's more relaxed, conversational, and I talk about literally anything that I want.
+
+With all of that said, here it goes...
+
+Behold! My attempt at writing about my own little world (and whatever else I want -- or don't want), **"Dailies"**.
 
 # Dailies
 
