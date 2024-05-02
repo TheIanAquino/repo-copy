@@ -430,10 +430,10 @@ pathos,
 A quality that evokes sadness.
  - **Note**  
 
-We have to realize that whether or not the other person likes us is going to depend on what we do, not – mystically – what we by nature ‘are’, and that we have the agency to do rather a lot of things.
+We have to realize that whether or not the other person likes us is going to depend on what we do, not – mystically – what we by nature ‘are’, and that we have the agency to do rather a lot of things. ^9d6151
  - **Highlight (yellow)**  
 
-It is sad enough when two people dislike each other. It is even sadder when two people fail to connect because both parties defensively but falsely guess that the other doesn’t like them – and yet, out of low self-worth, takes no risk whatever to alter the situation. We should stop worrying quite so much whether or not people like us, and make that far more interesting and socially useful move: concentrate on showing that we like them.
+It is sad enough when two people dislike each other. It is even sadder when two people fail to connect because both parties defensively but falsely guess that the other doesn’t like them – and yet, out of low self-worth, takes no risk whatever to alter the situation. We should stop worrying quite so much whether or not people like us, and make that far more interesting and socially useful move: concentrate on showing that we like them. ^0f5d9a
  - **Highlight (yellow)**  
 
 perturbed
