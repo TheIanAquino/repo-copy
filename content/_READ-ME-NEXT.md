@@ -22,7 +22,7 @@ Despite that, instead of giving you a precise and almost mechanical way to navig
 
 On your left, if you're on a PC, you can see there is a [[changelog]], under the `___changelog` folder. The `___changelog` folder and the `changelog` file are both accessible in the `search`, so you can find them there, when you're on a mobile device. If you want to know about the recent and specific updates in my public journal, you can head there and see for yourself.
 
-Speaking about `search`, both PC and mobile device users have access to the `search` functionality. It's a full-text search, so you can pretty much search any any word you want, and a few notes (or should I call them entries? 😉) would appear. From there on, feel free to explore whichever note you might land onto.
+Speaking about `search`, both PC and mobile device users have access to the `search` functionality. It's a full-text search, so you can pretty much search any word you want, and a few notes (or should I call them entries? 😉) would appear. From there on, feel free to explore whichever note you might land onto.
 
 Moving forward, there are a few notes with variations of either of these pre-fixes: `_` and `xx`, where `xx` is a set of numbers (some examples include [[_READ-ME-FIRST]], [[_READ-ME-NEXT]], [[00_idea-dump]], and [[00_life-lessons]]). These are what you should focus your attention to, as they are the **important** notes in the journal. In the future, I will add more *important* notes to the journal, but for now that's the only information I can divulge.
 

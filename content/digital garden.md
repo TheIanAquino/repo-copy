@@ -5,7 +5,7 @@ date created: 2024-04-29
 last modified: 2024-04-29 03:33:51 PM
 ---
 
->[!WARNING]- Archived Writeup
+>[!WARNING]- Archived Writing
 >**Garden**:
 >
 > *Oxford Dictionary* definition:

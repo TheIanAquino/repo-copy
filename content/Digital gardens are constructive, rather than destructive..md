@@ -17,7 +17,7 @@ Seedlings provide the littlest amount of value when compared to its future stage
 
 # 🌿 Sapling
 
-When seedlings grow, they become saplings. Saplings already have roots, but these roots are not enough buttress the bigger form of the plant: a seasoned tree. In this phase, it is pivotal that I focus on rooting my idea even more, such that when it furthers its developmental stage, it wouldn't shake or fall down. Saplings are in the middle of the scale that shows concepts with invisible potential at the extreme left and those with strong potential at the far right.
+When seedlings grow, they become saplings. Saplings already have roots, but these roots are not enough to buttress the bigger form of the plant: a seasoned tree. In this phase, it is pivotal that I focus on rooting my idea even more, such that when it furthers its developmental stage, it wouldn't shake or fall down. Saplings are in the middle of the scale that shows concepts with invisible potential at the extreme left and those with strong potential at the far right.
 
 # 🌳 Seasoned
 
@@ -29,7 +29,7 @@ Evergreen trees are ideas that are already fully developed. Meaning, they are re
 
 # 🔍 Caveat
 
-While seedlings serve as the base form of future fundamental ideas, it is important to note that planting idea seedlings do not necessarily equate to them growing in the future. That is, just like real life plants, when I see little-to-no future for my idea seedlings to grow, I discard them and find new types of seeds to plant in my digital garden. This analogy goes the same for the stages after the idea seedling.
+While seedlings serve as the base form of future fundamental ideas, it is important to note that planting idea seedlings does not necessarily equate to them growing in the future. That is, just like real life plants, when I see little-to-no future for my idea seedlings to grow, I discard them and find new types of seeds to plant in my digital garden. This analogy goes the same for the stages after the idea seedling.
 
 # 🌱 Seedling Archive
 
