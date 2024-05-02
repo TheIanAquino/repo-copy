@@ -1,3 +1,4 @@
+- 2024-05-02 at 21h21 · [[NSVI]]
 - 2024-05-02 at 20h49 · [[2024-05-02]]
 - 2024-05-02 at 20h26 · [[The School of Life]]
 - 2024-05-02 at 14h16 · [[Anthony Ongaro, What Is Minimalism A Practical Guide to a Minimalist Lifestyle]]
