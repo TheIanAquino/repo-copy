@@ -1,3 +1,5 @@
+- 2024-05-02 at 14h16 · [[Anthony Ongaro, What Is Minimalism A Practical Guide to a Minimalist Lifestyle]]
+- 2024-05-02 at 13h47 · [[Ali Abdaal, Quantity Over Quality]]
 - 2024-05-02 at 13h30 · [[_READ-ME-NEXT]]
 - 2024-05-02 at 13h30 · [[Digital gardens are constructive, rather than destructive.]]
 - 2024-05-02 at 13h29 · [[digital garden]]
