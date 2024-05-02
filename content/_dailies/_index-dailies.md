@@ -43,7 +43,17 @@ You can think of it as like a daily newsletter that only goes to my website -- n
 
 ![[I'm quitting social media#^8e1794]]
 
-If I were to relate this part of the journal, however, to anything serious, the closest, extant idea that pops in my mind is the concept of [working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up). Except, it's more casual, relaxed, conversational (as in, I type as if I talk to myself -- which is how I write most of the time in this journal!), and I talk about literally anything that I want.
+You see, I had this idea I'd implemented in one of my personal journals (yes, I have multiple journals 😂). It's called a [[Timeless|timeless note]]:
+
+![[Timeless#^35e84a]]
+
+I mention this because it is important to note that the majority, if not all, of my notes in [[_index-dailies|Dailies]] would be filled with [[Timeless]] notes. Now, timeless notes aren't supposed to be insightful all the time. In fact, it is realistic that, if you ever plan on reading my dailies, you must expect to read almost nonsensical thoughts. Trifle. Blabber. Because again, that's the nature I want my public journal to exhibit. I don't want it to be some sort of "highlight reel", as that's one of the key concerns I had with social media. 
+
+And that's just the way it is: garbage thought could go through my mind and I would still write it down. Again:
+
+![[2024-05-02#^6c4008]]
+
+If I were to relate this part of the journal, however, to anything serious or intelligent, the closest, extant idea that pops in my mind is the concept of [working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up). Except, it's more casual, relaxed, conversational (as in, I type as if I talk to myself -- which is how I write most of the time in this journal!), and I talk about literally anything that I want.
 
 With all of that said, here it goes...
 
