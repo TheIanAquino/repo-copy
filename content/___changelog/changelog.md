@@ -1,3 +1,4 @@
+- 2024-05-03 at 13h50 · [[2024-05-03]]
 - 2024-05-03 at 00h17 · [[2024-05-02]]
 - 2024-05-03 at 00h11 · [[_index-dailies]]
 - 2024-05-03 at 00h06 · [[Timeless]]
@@ -181,6 +182,6 @@
 - 2024-04-29 at 21h30 · [[knowledge isn't practice]]
 - 2024-04-29 at 21h30 · [[creating to learn and vice versa]]
 - 2024-04-29 at 21h30 · [[a few thoughts on systems]]
-- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[Callouts]]
+- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[content]]
