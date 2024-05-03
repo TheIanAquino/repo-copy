@@ -45,7 +45,7 @@ And if, for some reason, one of those links do not work, here's my public mobile
 
 The short answer is I made this website originally to write about whatever I want. The long answer is that I've a bunch of interests, much to my chagrin: design, 3D, business, writing, plus a shit-ton more... and I need a channel through which I can yap about those. ^c43217
 
-I can do all these on a social media account, sure. But the thing is [[I'm quitting social media|I don't like social media that much]], so I chose a blog. Some may call this project as a [[digital garden]], but I think of it more as a public journal:
+I can do all these on a social media account, sure. But the thing is [[I'm quitting social media|I don't like social media that much]], so I chose a blog. Some may call this project a [[digital garden]], but I think of it more as a public journal:
 
 >...a dedicated online space for my thoughts to live in.
 
