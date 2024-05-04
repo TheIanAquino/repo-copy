@@ -29,3 +29,9 @@ I don't know what it's called, exactly, but don't copy the link from the browser
 # Git Commands
 
 ![[Pasted image 20240504203547.png]]
+
+# Code Blocks in Obsidian
+```
+code-here
+```
+`syntax-here`
