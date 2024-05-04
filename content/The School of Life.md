@@ -138,7 +138,7 @@ It may be the work of decades to develop a wiser power to feel sad about, rather
 We may be well into middle age before we can shed our first impulses to explode at or flee from those who misunderstand our needs, and more carefully and serenely strive to explain them instead.
  - **Highlight (blue)**  
 
-We are judged on the behaviours that our wounds inspire, rather than on the wounds themselves.
+We are judged on the behaviours that our wounds inspire, rather than on the wounds themselves. ^52d4b7
  - **Highlight (blue)**  
 
 To any grown-up, it is immediately obvious that a three-year-old having a tantrum in a hotel restaurant is irritating, theatrical and bad-mannered. But that is chiefly because we lack the encouragement or empathetic energy to try to recreate the strange inner world of a small person in which she might feel monumentally tired and bewildered, fearful that an unfamiliar dish was going to be forced on her, or lonely and humiliated by being the smallest person in a large and lugubrious dining room, far away from Lanky, the stuffed rabbit left by mistake on the floor in the room upstairs.
