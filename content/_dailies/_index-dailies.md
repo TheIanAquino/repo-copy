@@ -5,7 +5,7 @@ date created: 2024-04-29
 last modified: 2024-04-29 07:34:30 PM
 ---
 
-# What is Dailies?
+# What is _dailies?
 
 > [!NOTE]- Open me for context!
 > Just a few days ago I came across a video of [Nicole van der Hoeven](https://nicolevanderhoeven.com/) where she briefly talked about this cool little thing she saw online. She found a [GitHub repository](https://github.com/jbranchaud/til) where the owner basically has been updating things he's learned every day, for the past few years. It's entitled "TIL", or Today I Learned. 
@@ -59,7 +59,7 @@ With all of that said, here it goes...
 
 Behold! My attempt at writing about my own little world (and whatever else I want -- or don't want), **"Dailies"**.
 
-# Dailies
+# _dailies
 
 - [[2024-04-29]]
 - [[2024-04-30]]
@@ -67,3 +67,16 @@ Behold! My attempt at writing about my own little world (and whatever else I wan
 - [[2024-05-02]]
 - [[2024-05-03]]
 - [[2024-05-04]]
+
+# _dev
+
+
+> [!INFO]-  What's this?
+> Hey there. Seems like you found a WIP thingy. This will be populated soon. 🤓
+> 
+> **Notes for myself:**
+> 
+> Something something dev log. Refer to [[2024-05-04#** 2024-05-04 ** *12 41 35 PM*|this]].
+
+
+- [[dev-2024-05-05]]
