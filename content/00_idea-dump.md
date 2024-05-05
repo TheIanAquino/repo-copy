@@ -23,6 +23,7 @@ last modified: 2024-04-29 04:36:57 PM
 	- [[Digital gardens evolve over time.]]
 - [[Timeless]]
 - [[the difficulty of dealing with trauma]]
+- [[the power of github's version control]]
 
 # commitments
 - [[00_life-lessons]]
