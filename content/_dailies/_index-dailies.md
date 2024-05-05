@@ -67,16 +67,23 @@ Behold! My attempt at writing about my own little world (and whatever else I wan
 - [[2024-05-02]]
 - [[2024-05-03]]
 - [[2024-05-04]]
+- [[2024-05-05]]
 
 # _dev
-
 
 > [!INFO]-  What's this?
 > Hey there. Seems like you found a WIP thingy. This will be populated soon. 🤓
 > 
-> **Notes for myself:**
+> A dev log, according to my limited understanding from this [[2024-05-04#** 2024-05-04 ** *12 41 35 PM*|video]], is a place where developers put contextual ideas and their corresponding timestamps in one place, for them to use in the future scenarios concerning their development process. It's much like taking notes while learning something, except, in this definition of a dev log, it's all about providing a record -- or a *log* -- of the concerns (and their solutions) that are encountered along the way. 
 > 
-> Something something dev log. Refer to [[2024-05-04#** 2024-05-04 ** *12 41 35 PM*|this]].
-
+> We can compare a dev log to a mathematician's notebook, except the solutions of the problems stated in the book are (though it's not necessary) clear, concise, and specific. 
+> 
+> I think it's even better to call my personal dev log a **developer's notebook**, as anything from bugs, unique features, shortcuts, interventions, best practices, and other, unique, contextual, and experience-based lessons can be written in it. This is done so as to aid my holistic improvement as a developer. 
+> 
+> In my case, I'm also pairing my dev log with the unique approach to track the different programming languages that I would learn, including (but not limited to): [[HTML]] and [[CSS]], through creating a personal documentation of the *contexts* that I encounter along the way,
+> 
+> Now one might ask, what are *contexts*? To which I would answer, I'm not entirely sure. However, those are what I mentioned in the line above, where I talked about the **deveoloper's notebook**:
+> 
+>>[!QUOTE] [A]nything from bugs, unique features, shortcuts, interventions, best practices, and other, unique, contextual, and experience-based lessons..."
 
 - [[dev-2024-05-05]]
