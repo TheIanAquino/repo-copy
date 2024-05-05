@@ -1,4 +1,4 @@
-- 2024-05-05 at 01h12 · [[2024-05-04]]
+- 2024-05-05 at 14h13 · [[2024-05-04]]
 - 2024-05-05 at 01h09 · [[2024-05-05]]
 - 2024-05-05 at 00h37 · [[__how-tos]]
 - 2024-05-04 at 23h55 · [[now]]
@@ -186,6 +186,6 @@
 - 2024-04-29 at 21h30 · [[knowledge isn't practice]]
 - 2024-04-29 at 21h30 · [[creating to learn and vice versa]]
 - 2024-04-29 at 21h30 · [[a few thoughts on systems]]
-- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[Callouts]]
+- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[content]]
