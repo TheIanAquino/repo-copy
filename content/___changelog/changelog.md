@@ -1,3 +1,4 @@
+- 2024-05-05 at 18h51 · [[the difficulty of dealing with trauma]]
 - 2024-05-05 at 18h44 · [[HTML]]
 - 2024-05-05 at 18h43 · [[dev-2024-05-05]]
 - 2024-05-05 at 18h34 · [[dev-now]]
@@ -17,7 +18,6 @@
 - 2024-05-04 at 23h45 · [[2024-05-02]]
 - 2024-05-04 at 23h45 · [[2024-05-03]]
 - 2024-05-04 at 17h03 · [[index]]
-- 2024-05-04 at 12h43 · [[the difficulty of dealing with trauma]]
 - 2024-05-04 at 11h44 · [[The School of Life]]
 - 2024-05-04 at 11h11 · [[The Daily Stoic, Now That You Know, Do Better  Wants Make You a Servant]]
 - 2024-05-03 at 20h42 · [[Timeless]]
