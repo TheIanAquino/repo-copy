@@ -15,10 +15,10 @@ last modified: 2024-04-29 05:18:51 PM
 
 # My Value Hierarchy
 - **Time** [^1]
-	- Productivity [^2]
+	- Productivity [^2] ^7be3f5
 		- Focus [^3]
 			- Productivity Blocks [^4]
-		- Rest [^5]
+		- Rest [^5] ^d3da9c
 			- Breaks [^6]
 		- Commitment [^7] ^65dc9a
 	- Growth [^8] ^9d77c8

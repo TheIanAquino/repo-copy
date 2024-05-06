@@ -14,3 +14,6 @@ Boundaries aren't some sort of easy thing to enforce, especially when we're very
 I like this quote from [Prentis Hemphill](https://prentishemphill.com/):
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc1c842f-8b1b-497f-a269-9b74e56132f6_765x566.png)
+
+>[!TIP]- Context No. 1
+>![[Pasted image 20240506195607.png]]

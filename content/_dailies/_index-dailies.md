@@ -27,7 +27,7 @@ Plus, I'm already an avid note-taker anyways, so I think that's also a huge part
 
 I do not carry the types of characteristics usually seen among button-up, uptight people who yap about things like self-improvement. It just so happened that I like consuming stuff from self-helpy-vibed people, and I enjoy writing!
 
-Please note that I don't write for anyone here, but myself. I write for myself, which is a huge factor in why you *probably* wouldn't understand half of what I would be writing about. Nonetheless, I would like to engage in this project with a Gary Vaynerchuck sort of mindset to document, document, document. 
+Please note that I don't write for anyone here, but myself. I write for myself, which is a huge factor in why you *probably* wouldn't understand half of what I would be writing about. Nonetheless, I would like to engage in this project with a Gary Vaynerchuck sort of mindset to document, document, document.  ^41d7d5
 
 It's not about you, or any sort of audience. It's about me: what I enjoy, what I'm good at, how I feel, how I see things. If you don't resonate with this philosophy, then you probably wouldn't enjoy reading Dailies. 
 
