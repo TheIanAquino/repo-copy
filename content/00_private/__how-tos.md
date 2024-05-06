@@ -35,3 +35,8 @@ I don't know what it's called, exactly, but don't copy the link from the browser
 code-here
 ```
 `syntax-here`
+
+# Not Opening a Link in Flow Launcher
+I can press `shift + enter` to *not* open a link in Flow Launcher and instead, this prompt would appear:
+
+![[Pasted image 20240506104122.png]]
