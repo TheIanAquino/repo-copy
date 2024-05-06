@@ -80,10 +80,13 @@ Behold! My attempt at writing about my own little world (and whatever else I wan
 > 
 > I think it's even better to call my personal dev log a **developer's notebook**, as anything from bugs, unique features, shortcuts, interventions, best practices, and other, unique, contextual, and experience-based lessons can be written in it. This is done so as to aid my holistic improvement as a developer. 
 > 
-> In my case, I'm also pairing my dev log with the unique approach to track the different programming languages that I would learn, including (but not limited to): [[HTML]] and [[CSS]], through creating a personal documentation of the *contexts* that I encounter along the way,
+> In my case, I'm also pairing my dev log with the unique approach to track the different programming languages that I would learn, including (but not limited to): [[HTML]] and [[CSS]], through creating a personal documentation of the *contexts* that I encounter along the way.
 > 
 > Now one might ask, what are *contexts*? To which I would answer, I'm not entirely sure. However, those are what I mentioned in the line above, where I talked about the **deveoloper's notebook**:
 > 
 >>[!QUOTE] [A]nything from bugs, unique features, shortcuts, interventions, best practices, and other, unique, contextual, and experience-based lessons..."
 
+^bd1c7a
+
 - [[dev-2024-05-05]]
+- [[dev-2024-05-06]]
