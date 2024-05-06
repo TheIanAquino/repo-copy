@@ -21,3 +21,23 @@ selector-here {
 }
 ```
 An inline block fixes the problem of working with block-level elements and `text-align` whereby the block-level element acts in a way that fills up the entirety of the `block-level` element. Refer to [[dev-2024-05-06#** 2024-05-06 ** *02 01 17 PM*|this]] for more context.
+
+# **[[dev-2024-05-06|dev-2024-05-06-Adding hover, active, and visited looks for a link]]** | *04:09:35 PM*
+
+Refer to [[dev-2024-05-06#** 2024-05-06 ** *04 07 59 PM*|this]] for preliminary context. Here's how it works:
+
+CSS adds visited, hover, and active properties to a selector as follows. Say, for example, we have a selector for a `<p>` with the following attribute: `class="for-css"`, and we wanted to change its look for when it's on **hover**, **active**, and **visited**.   
+
+It will look like this, when we modify it in the `styles.css` sheet of my project:
+
+```
+p.for-css:hover {
+	color: black;
+}
+p.for-css:active{
+	color: brown;
+}
+p.for-css:visited {
+	color: black;
+}
+```
