@@ -68,6 +68,7 @@ Behold! My attempt at writing about my own little world (and whatever else I wan
 - [[2024-05-03]]
 - [[2024-05-04]]
 - [[2024-05-05]]
+- [[2024-05-06]]
 
 # _dev
 
