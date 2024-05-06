@@ -20,7 +20,4 @@ selector-here {
 	display: inline-block;
 }
 ```
-An inline block fixes the problem of working with block-level elements and `text-align` whereby the block-level element acts in a way that fills up the entirety of the `block-level` element. Refer to this for more context:
-
->[!INFO]- Image from [[dev-2024-05-06]]:
->![[dev-2024-05-06#** 2024-05-06 ** *02 01 17 PM*]]
+An inline block fixes the problem of working with block-level elements and `text-align` whereby the block-level element acts in a way that fills up the entirety of the `block-level` element. Refer to [[dev-2024-05-06#** 2024-05-06 ** *02 01 17 PM*|this]] for more context.
