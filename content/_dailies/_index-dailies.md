@@ -31,7 +31,7 @@ Please note that I don't write for anyone here, but myself. I write for myself, 
 
 It's not about you, or any sort of audience. It's about me: what I enjoy, what I'm good at, how I feel, how I see things. If you don't resonate with this philosophy, then you probably wouldn't enjoy reading Dailies. 
 
-To be fair, other than that -- as in none of the parts of this website are build with a particular audience in mind -- one of the shiniest imperatives I had in mind as I formulated this website was this:
+To be fair, other than that -- as in none of the parts of this website are built with a particular audience in mind -- one of the shiniest imperatives I had in mind as I formulated this website was this:
 
 ![[index#^e817db]]
 
