@@ -40,3 +40,27 @@ code-here
 I can press `shift + enter` to *not* open a link in Flow Launcher and instead, this prompt would appear:
 
 ![[Pasted image 20240506104122.png]]
+
+# How to import highlights from Apple Books into Readwise:
+
+>[!WARNING] NOTE: This *might* be outdated, so please refer to the [latest links from Readwise](https://readwise.io/welcome/sync).
+
+
+To import highlights from Apple Books on your iPhone or iPad:
+
+1. Launch the Apple Books app on your device
+2. Open the book you want to import
+3. Open the settings menu in the bottom right corner
+4. Slide to **Highlights** (far right)
+5. Tap **Select** (top left)
+6. Select the highlights to share
+7. Tap **Share** (bottom left)
+8. Email to add@readwise.io
+
+These highlights will then be automatically imported into your Readwise account!
+
+>[!INFO]- A GIF of the importing process, as seen through an iPhone.
+> ![[file-7wQ1oC8m7h.gif]]
+
+
+Last updated on January 30, 2024
