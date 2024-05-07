@@ -84,7 +84,7 @@ Behold! My attempt at writing about my own little world (and whatever else I wan
 > 
 > In my case, I'm also pairing my dev log with the unique approach to track the different programming languages that I would learn, including (but not limited to): [[HTML]] and [[CSS]], through creating a personal documentation of the *contexts* that I encounter along the way.
 > 
-> Now one might ask, what are *contexts*? To which I would answer, I'm not entirely sure. However, those are what I mentioned in the line above, where I talked about the **deveoloper's notebook**:
+> Now one might ask, what are *contexts*? To which I would answer, I'm not entirely sure. However, those are what I mentioned in the line above, where I talked about the **developer's notebook**:
 > 
 >>[!QUOTE] [A]nything from bugs, unique features, shortcuts, interventions, best practices, and other, unique, contextual, and experience-based lessons..."
 
