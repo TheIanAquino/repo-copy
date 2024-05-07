@@ -7,7 +7,7 @@ Identifying the Twitch That’s Keeping Us Distracted and Stagnant in Life
 - Full Title: Identifying the Twitch That’s Keeping Us Distracted and Stagnant in Life
 - Category: #articles
 - Published Date: 2016-09-14
-- Summary: The document delves into the concept of the "Twitch," which refers to impulsive, unproductive responses to discomfort that distract us from intentional actions. The author shares a personal experience that led to the realization that attention is not owned but influenced by external factors. Strategies are provided to identify and break the Twitch, including building awareness, minimizing distractions, aligning habits with values, and being open to new opportunities for a more intentional and fulfilling life. The text emphasizes the importance of taking small, consistent steps towards lifestyle improvements while acknowledging the role of accountability and support from others in the process.
+- Summary: The document delves into the concept of the "Twitch," which refers to impulsive, unproductive responses to discomfort that distract us from intentional actions. The author shares a personal experience that led to the realization that attention is not owned but influenced by external factors. Strategies are provided to identify and break the Twitch, including building awareness, minimizing distractions, aligning habits with values, and being open to new opportunities for a more intentional and fulfilling life. The text emphasizes the importance of taking small, consistent steps towards lifestyle improvements while acknowledging the role of accountability and support from others in the process. ^5c1011
 - URL: https://www.breakthetwitch.com/twitch/
 
 ## Highlights
