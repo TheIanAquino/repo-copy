@@ -19,7 +19,7 @@ Outlive
 - pulmonary embolism
     - Tags: [[purple]] 
     - Note: From Mayo Clinic: “A pulmonary embolism (PE) occurs when a blood clot gets stuck in an artery in the lung, blocking blood flow to part of the lung.”
-- Cancer doesn’t care how rich you are. Or who your surgeon is, really. If it wants to find a way to kill you, it will.
+- Cancer doesn’t care how rich you are. Or who your surgeon is, really. If it wants to find a way to kill you, it will. ^31684b
 - duck out
     - Note: From Merriam Webster: “To leave suddenly and usually without telling anyone that one is leaving. We ducked out after the first act of the play. often + on or of. They ducked out on us without even saying goodbye.”
 - Barring some major breakthrough that, somehow, someway, reverses two billion years of evolutionary history and frees us from time’s arrow, everyone and everything that is alive today will inevitably die. It’s a one-way street.
