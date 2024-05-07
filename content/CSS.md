@@ -41,3 +41,44 @@ p.for-css:visited {
 	color: black;
 }
 ```
+
+# **[[dev-2024-05-07|dev-2024-05-07-What it means to have two values in the CSS margin property]]** | *11:17:22 AM*
+
+![[dev-2024-05-07#^d3366d]]
+
+>[!TIP] This also works for the padding property!
+
+If there are two values in a margin property, they set the margin values of top & bottom, left & right. Here's a code snippet to understand it more. Say we have an HTML `p` element with the attribute `class="something"`, and we wanted to add a `10px auto` value in its `margin`:
+
+It would look something like this in the HTML file:
+
+```
+<p class="something">style me, please!</p>
+```
+
+In the CSS stylesheet, it would look like this:
+
+```
+p.something {
+	margin: 10px auto;
+}
+```
+
+If there were two values and, say, we wanted to create a CSS attribute that sets the `margin-top` & `margin-bottom` to `20px`, and `marign-left` and `margin-right` to `10px`. It would look like this:
+
+```
+p.something {
+	margin: 20px auto 10px auto;
+}
+```
+
+# **[[dev-2024-05-07|dev-2024-05-07-Color hexadecimal values]]** | *11:57:21 AM*
+
+>[!TIP]- Color hexadecimal values
+> ![[Pasted image 20240507115651.png]]
+
+
+# **[[dev-2024-05-07|dev-2024-05-07-using HSL in CSS]]** | *12:01:00 PM*
+
+>[!TIP]- Using HSL in CSS
+> ![[Pasted image 20240507120047.png]]
