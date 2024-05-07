@@ -1,4 +1,4 @@
-- 2024-05-07 at 12h02 · [[dev-2024-05-07]]
+- 2024-05-07 at 12h05 · [[dev-2024-05-07]]
 - 2024-05-07 at 12h01 · [[CSS]]
 - 2024-05-07 at 11h52 · [[Twitch Log]]
 - 2024-05-07 at 11h45 · [[__dump]]
@@ -198,6 +198,6 @@
 - 2024-04-29 at 21h30 · [[knowledge isn't practice]]
 - 2024-04-29 at 21h30 · [[creating to learn and vice versa]]
 - 2024-04-29 at 21h30 · [[a few thoughts on systems]]
-- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[Callouts]]
+- 2024-04-29 at 21h30 · [[dailies_title]]
 - 2024-04-29 at 21h30 · [[content]]
