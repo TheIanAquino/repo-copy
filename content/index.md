@@ -30,7 +30,7 @@ I have years of experience working in the creative industry, both in the freelan
 
 For my creative work, you can check out my portfolio (*TBA*).
 
-Should you want or need to contact me, please feel free to do so through my email: **ian.aquino.personal@gmail.com**.
+Should you want or need to contact me, please feel free to do so through my email: ian.aquino.personal@gmail.com.
 
 If all else fails, ping me over at [**Viber**](viber://chat?number=%2B639756833648), [**Telegram**](https://telegram.me/soro_ffs), [**Discord**](https://discord.com/users/757517950776246316) or [**iMessage**](sms://09756833648). 
 
