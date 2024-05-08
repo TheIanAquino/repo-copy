@@ -44,7 +44,7 @@ p.for-css:visited {
 
 # **[[dev-2024-05-07|dev-2024-05-07-What it means to have two values in the CSS margin property]]** | *11:17:22 AM*
 
-![[dev-2024-05-07#^d3366d]]
+![[dev-2024-05-07#^e6e56d]]
 
 >[!TIP] This also works for the padding property!
 
@@ -82,3 +82,7 @@ p.something {
 
 >[!TIP]- Using HSL in CSS
 > ![[Pasted image 20240507120047.png]]
+
+# **[[dev-2024-05-08|dev-2024-05-08-A simple use-case for a linear gradient in CSS:]]** | *10:02:12 AM*
+
+![[dev-2024-05-08#^2c7c06]]
