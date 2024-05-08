@@ -5,31 +5,22 @@ date created: 2024-05-01
 last modified: 2024-05-01 03:57:49 PM
 ---
 
+>[!TIP]- If you're on a PC, open this.
+>For easier navigation, use the **Table of Contents**.
+
 # Hi there!
 
->[!TIP] HEY THERE!
->This note probably caught your attention. Rightfully so!
+Glad to see you here -- this page is what I would generally recommend people to start, when they start fiddling with my website.
 
-Despite what I have stated in the [[index|landing page]] of this Public Journal, I think this place is where I would generally recommend people to start, when they fiddle with my website.
+This page going to be some sort of a **User's Guide to the Author**. Sure, you might see my quirks from my #articles and my [[_index-dailies|dailies entries]] here and there, but the cream of the crop's gonna be in this page, if you want to know who I *actually* am.
 
-This is going to be some sort of a **User's Guide to the Author**. Sure, you might see my quirks from my #articles and my [[_index-dailies|Dailies entries]] here and there, but the cream of the crop's gonna be here, right here, in this page, when you want to know who I am.
-
-Think of this page as an introductory page, or perhaps the usual **about** page of websites, except with one catch: It's not going to be about the website, per se, as in the Public Journal (enough information about that can be found in, again, the [[index|landing page]]). 
+Think of this page as an introductory page, or perhaps the usual **about** page of websites, except with one catch: It's not about the website per se, as in the Public Journal. Enough information about that can be found in, again, the [[index|landing page]].
 
 Instead, this page is about the author himself, which is me.
 
-# Okay, so who are you?
+# Okay, so who am I?
 
-
-> [!warning] This part of the website is a work in progress. 
-> Having incomplete information at this point is highly likely. I highly recommend you check the other parts of the website first.
-> 
-> **Here's a few keywords to search, when you're on mobile:**
-> 
-> [[_index-dailies|dailies]], #articles, [[00_idea-dump]]. and Matter.
-
->[!TIP]- If you're on a PC, open this.
->For easier navigation, use the **Table of Contents**.
+You can take a glance at the list below, to know some **general information** about who I am.
 
 ## Basic Information
 - ### Name
@@ -62,8 +53,13 @@ Instead, this page is about the author himself, which is me.
 
 ## Mission Statement
 
->[!TIP] Mission Statement
-> Lorem ipsum dolor sit amet.
+>[!QUOTE] Simplified Mission Statement
+>**I think, write, and design.**
+
+>[!INFO] Quick context about my mission statement: 
+>My mission is to **think, write, and design**. 
+>
+>As a professional graphic designer and all-in-all creative, I harness my skills to craft not only visually compelling but also impactful designs. My passion for writing also thrives in my public journal, where I share my daily reflections and insights. Through both of these pursuits -- designing and writing -- I aim to inspire, engage, and provoke thought in my audience, sparking meaningful conversations and innovations in diverse fields.
 
 ## Interests & Skills
 - Design
@@ -93,17 +89,13 @@ Instead, this page is about the author himself, which is me.
 	  > I have yet to research about Intentionalism and Essentialism so I can write extensively about them, but the general idea is within the core concepts of Minimalism, so I put them below Minimalism.
 	- Intentionalism
 	- Essentialism
-## Fears
-- Failing
-- Inadequacy
-- ~~Cockroaches~~
-- Baldness
-- Alopecia
-- Sickness
-	- Cancer
 
 # [[00_my-values-sheet|Values]]
- ![[00_my-values-sheet#My Value Hierarchy]]
+If you want to see an exhaustive list of my values, click [[00_my-values-sheet#My Value Hierarchy|here]]. Otherwise, for quick introductions like this, this summary would suffice:
+
+>[!QUOTE] Ian's Values
+>My values revolve around optimizing my time, health, wealth, and relationships to achieve a balanced and fulfilling life. In terms of time, I prioritize productivity through focused work, rest periods, and commitment to my goals. I actively engage in personal growth through self-reflection and nurture my creativity through design and writing. My curiosity drives me to continuously read and explore new ideas. In health, I make conscious lifestyle choices, such as ensuring adequate sleep and managing my diet across both digital and physical realms, to maintain overall well-being. Regarding wealth, I value passion projects, personal branding, and mindful spending, including proper allocation of resources. Lastly, I emphasize the importance of relationships—both romantic and familial—by cherishing quality time, physical touch, and meaningful interactions with my loved ones.
+
 # Philosophies
 - [Minimalism](https://www.breakthetwitch.com/minimalism/)
 - [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
