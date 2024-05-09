@@ -3,7 +3,6 @@ title: Alexander's Thoughts
 draft: false
 ---
 
-
 > [!TIP]- Temporary Notice
 > **Hey there! This website is better viewed through a PC.** 
 > 
@@ -15,6 +14,22 @@ draft: false
 > 
 > Until then, if you'd like to see the website in its full glory, **feel free to access it some other time, when you're not on a mobile device anymore.**
 
+>[!INFO]- OPEN ME!
+>Hi there. It's Ian from [[2024-05-09]] | 08:24:25 PM. 
+>
+>If you're here because of my social media stories, thanks for giving just enough shit about me to click the link. Regardless if you came from my social media stories or not, I would like to quickly give context that this website is still in its very nascent stages. I've only been developing it since [[2024-04-29]], and I would say above 85% of the manually-written content here is all over the place. I have a guiding philosophy for this, however, which shines through these snippets of my writing from this journal:
+> 
+>Case Study No. 1: 
+>![[2024-05-04#^59f004]]
+>
+>Case Study No. 2:
+> ![[_index-dailies#^41d7d5]]
+> 
+>If time allows, I could write an entire note (as in a webpage) for such philosophy. Until then, please [[_READ-ME-FIRST#Basic Information|let me know]] if you find an error truly bothersome, so I could fix it. I fix these errors on a daily basis, and I manually go through each page to find them, so it's extremely laborious, which is against my principle of just wanting to have *good enough* -- **not perfect** -- content for people to see. Though I'm all for presentability and having *polished* work, I think what I'm ultimately after is to convey the *truth* of my thinking process. And that process, I must say, is *imperfect*. I could even go as far as to say that all our thoughts aren't developed, unless we manually go through the effort of building upon them. Each of us have different ways to develop a concept, thought, or idea, and my chosen method has always been writing. 
+>
+>I think through this craft, and it is not, in any way, the business of people to meddle with how I do so. Having said that, if you would like a glimpse of my thinking process, then all I can say is this: 
+>
+>**Welcome.** It's a messy world here, and I hope you don't mind. If you do, then feel free to exit from here and never bother checking my public journal again. There's a lot of *perfect* content out there that you could see, and this website isn't one of them. This is not something I'm making to please anyone outside of myself, nor is it a piece of material to impress my future employers. As a matter of fact, that couldn't be farther from the truth. To understand more about the nature of this website -- what it is, and why am I making this -- please read on. I hope you could enjoy the journey of reading my public journal as much as I do making it. I'll see you on the other side, wherever that is. 🩶 
 
 # Wtf is this?
 
