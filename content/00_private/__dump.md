@@ -69,3 +69,9 @@ TABLE date-created as "date created", last-modified as "last modified"
 from "_dailies"
 SORT file.name ASC
 ```
+
+---
+
+# Heading 1
+## Heading 2
+### Heading 3
