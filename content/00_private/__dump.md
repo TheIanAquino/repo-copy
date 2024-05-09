@@ -62,7 +62,6 @@ Here's the default values of the colors selector in `quartz.config.ts`
 
 ---
 
-
 ```
 {```}dataview
 TABLE date-created as "date created", last-modified as "last modified"
