@@ -32,3 +32,11 @@ However, when working with CSS, we need to keep this in mind:
 
 >[!QUOTE]- Working with multiple HTML classes in CSS
 >If you add multiple classes to an HTML element, the styles of the first classes you list may be overridden by later classes.
+
+# **[[dev-2024-05-09|dev-2024-05-09-for and id atrributes]]** | *11:00:14 PM*
+
+![[dev-2024-05-09#^d41dd7]]
+
+A `for` attribute needs to have an `id` attribute, for it to work. [^1]
+
+[^1]: I'm not sure about this one. I'll eventually confirm it as I go. The rationale behind me writing this as a *context* is that I somehow correlated the presence of a `for` attribute to the `id` attribute -- that the former cannot exist without the latter. **However**, I am met with the confusion caused by the possibility of the `id` attribute existing without the `for` attribute (e.g. as a selector for [[CSS]], i.e. `.id-here`).

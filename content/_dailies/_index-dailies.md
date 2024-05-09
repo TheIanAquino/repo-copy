@@ -97,3 +97,4 @@ Behold! My attempt at writing about my own little world (and whatever else I wan
 - [[dev-2024-05-06]]
 - [[dev-2024-05-07]]
 - [[dev-2024-05-08]]
+- [[dev-2024-05-09]]
