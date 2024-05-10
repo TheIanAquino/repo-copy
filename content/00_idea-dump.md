@@ -24,6 +24,7 @@ last modified: 2024-04-29 04:36:57 PM
 - [[Timeless]]
 - [[the difficulty of dealing with trauma]]
 - [[the power of github's version control]]
+- [[the importance of contexts]]
 
 # commitments
 - [[00_life-lessons]]

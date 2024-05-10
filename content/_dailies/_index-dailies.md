@@ -77,7 +77,6 @@ Behold! My attempt at writing about my own little world (and whatever else I wan
 # _dev
 
 > [!INFO]-  What's this?
-> Hey there. Seems like you found a WIP thingy. This will be populated soon. 🤓
 > 
 > A dev log, according to my limited understanding from this [[2024-05-04#** 2024-05-04 ** *12 41 35 PM*|video]], is a place where developers put contextual ideas and their corresponding timestamps in one place, for them to use in the future scenarios concerning their development process. It's much like taking notes while learning something, except, in this definition of a dev log, it's all about providing a record -- or a *log* -- of the concerns (and their solutions) that are encountered along the way. 
 > 

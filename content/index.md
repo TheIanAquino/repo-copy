@@ -25,11 +25,16 @@ draft: false
 >Case Study No. 2:
 > ![[_index-dailies#^41d7d5]]
 > 
+> Case Study No. 3:
+> ![[2024-05-10#^3d267b]]
+> 
 >If time allows, I could write an entire note (as in a webpage) for such philosophy. Until then, please [[_READ-ME-FIRST#Basic Information|let me know]] if you find an error truly bothersome, so I could fix it. I fix these errors on a daily basis, and I manually go through each page to find them, so it's extremely laborious, which is against my principle of just wanting to have *good enough* -- **not perfect** -- content for people to see. Though I'm all for presentability and having *polished* work, I think what I'm ultimately after is to convey the *truth* of my thinking process. And that process, I must say, is *imperfect*. I could even go as far as to say that all our thoughts aren't developed, unless we manually go through the effort of building upon them. Each of us has different ways to develop a concept, thought, or idea, and my chosen method has always been writing. 
 >
 >I think through this craft, and it is not, in any way, the business of people to meddle with how I do so. Having said that, if you would like a glimpse of my thinking process, then all I can say is this: 
 >
 >**Welcome.** It's a messy world here, and I hope you don't mind. If you do, then feel free to exit from here and never bother checking my public journal again. There's a lot of *perfect* content out there that you could see, and this website isn't one of them. This is not something I'm making to please anyone outside of myself, nor is it a piece of material to impress my future employers. As a matter of fact, that couldn't be farther from the truth. To understand more about the nature of this website -- what it is, and why am I making this -- please read on. I hope you could enjoy the journey of reading my public journal as much as I do making it. I'll see you on the other side, wherever that is. 🩶 
+
+^b2406c
 
 # Wtf is this?
 
@@ -70,7 +75,7 @@ I want this space to be one that allows my brain to develop its own interests wi
 
 Plus, I get to share the more important (can be positive or negative!) moments of my life to those who so willingly remain curious, and to those who go out of their way to find this link in whichever place it could be found.
 
-As you probably could pick up on my [[I'm quitting social media|blog post]] regarding quitting social media, I cringe at the idea of broadcasting my life to the public. As if it's something people *need* to know about! As if they need to know that I felt this way at this exact timestamp, that I meant to say this rather than that, that I ate fucking corn for breakfast, and that I liked Taylor Swift's new album:
+As you probably could pick up on my [[I'm quitting social media|blog post]] regarding quitting social media, I cringe at the idea of broadcasting my life to the public. As if it's something people *need* to know about! As if they need to know that I felt this way at this exact timestamp, that I meant to say this rather than that, that I ate fucking corn for breakfast, and that I liked Taylor Swift's new album: ^ffa7aa
 
 ![[I'm quitting social media#^0e26c3]]
 
