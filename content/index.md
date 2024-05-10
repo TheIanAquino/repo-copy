@@ -1,6 +1,7 @@
 ---
 title: Alexander's Thoughts
 draft: false
+alias: landing page
 ---
 
 > [!TIP]- Temporary Notice
