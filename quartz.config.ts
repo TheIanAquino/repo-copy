@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧠 Ian's Public Journal",
+    pageTitle: "Copy Repository",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "theianaquino.github.io/public-journal/",
+    baseUrl: "theianaquino.github.io/copy-repository/",
     ignorePatterns: ["00_private", "00_templates", ".obsidian",],
     defaultDateType: "created",
     theme: {
