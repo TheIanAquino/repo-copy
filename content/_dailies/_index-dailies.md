@@ -3,7 +3,16 @@ title: _index-dailies
 draft: false
 date created: 2024-04-29
 last modified: 2024-04-29 07:34:30 PM
+share: true
 ---
+
+This is modified, please upload this.
+
+```dataview
+TABLE date-created as "date created", last-modified as "last modified"
+FROM "_dailies"
+SORT file.name ASC
+```
 
 # What is _dailies?
 
